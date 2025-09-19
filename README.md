@@ -17,7 +17,18 @@ The goal was to learn containerized deployments on AWS and practice cloud fundam
 - Browser & AWS Console  
 
 ## 📸 Screenshots
-All screenshots of ECS setup, task running, and Grafana dashboard are in the `screenshots/` folder.  
+### 1. ECS Cluster
+![ECS Cluster](./screenshots/my-grafana-cluster.PNG)  
+### 2. Task Definition
+![Task Definition](./screenshots/Task%20definition.PNG)  
+### 3. Security Group (Port 3000 open)
+![Security Group](./screenshots/Security%20group.PNG) 
+### 4. Grafana Sign-up Page 
+![Grafana Sign-up](./screenshots/Grafana%20signup.PNG)  
+### 5. Grafana Dashboard
+![Grafana Dashboard](./screenshots/Dashboard.PNG)  
+
+
 
 ## 🎯 Purpose
 - Practice containerized deployments in the cloud  
